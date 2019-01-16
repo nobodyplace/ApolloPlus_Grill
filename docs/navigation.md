@@ -10,8 +10,8 @@
   * [焼き場が担当する作業](kitchen/grill/work.md)
   * [営業後の〆作業](kitchen/grill/closing.md)
   ----  
-  * [仕上げ場](index.md)
-  * [ケツ](index.md)
+  * [仕上げ場](kitchen/plating/index.md)
+  * [ケツ](kitchen/end/index.md)
 
 
 [gimmick:theme](united)
