@@ -9,9 +9,8 @@
   * [調理メニューごとのマニュアル](kitchen/grill/cooking.md)
   * [焼き場が担当する作業](kitchen/grill/work.md)
   * [営業後の〆作業](kitchen/grill/closing.md)
-  
+  ----  
   * [仕上げ場](index.md)
-  ----
   * [ケツ](index.md)
 
 
