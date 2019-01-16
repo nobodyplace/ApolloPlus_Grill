@@ -2,7 +2,7 @@
 
 [ホール](hall/index.md)
 
-[キッチン](kitchen/index.md)
+[キッチン]()
 
   * [焼き場](kitchen/grill/index.md)
   * [営業前の準備](kitchen/grill/ready.md)
