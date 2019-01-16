@@ -11,3 +11,6 @@
         - [営業後の〆作業](closing.md)
     - 仕上げ場
     - ケツ
+
+
+[gimmick:theme](united)
