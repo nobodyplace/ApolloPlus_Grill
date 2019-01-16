@@ -1,8 +1,8 @@
 #アポロプラス マニュアル（非公式）
 
-[ホール]()
+[ホール](hall/index.md)
 
-[キッチン]()
+[キッチン](kitchen/index.md)
 
   * [焼き場](kitchen/grill/index.md)
   * [営業前の準備](kitchen/grill/ready.md)
