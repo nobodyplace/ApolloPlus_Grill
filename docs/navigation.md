@@ -4,6 +4,6 @@
 
 [キッチン]()
 
-- [焼き場](kitchen/grill/index.md)
-- 仕上げ場
-- ケツ
+  * [焼き場](kitchen/grill/index.md)
+  * 仕上げ場
+  * ケツ
