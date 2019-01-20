@@ -77,9 +77,6 @@ h2.md-inpage-anchor {
     border-bottom: solid 1px #999;
     border-left: solid 1rem #999;
 }
-h2.md-inpage-anchor:first {
-    margin: 3rem 0;
-}
 h3.md-inpage-anchor {
     margin: 1.5em 0 0.5em;
 }
