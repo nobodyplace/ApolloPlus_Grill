@@ -24,12 +24,9 @@
 
 ## 技術情報
 
-- 本Wikiは [MDwiki][50889ba5] を利用して執筆され、[GitHub上の公開リポジトリ][9507a756] で管理されています。またGitHubが提供する静的サイトのホスティングサービス「GitHub Pages」にてホスティングされています。
+- 本Wikiは [MDwiki](http://dynalon.github.io/mdwiki/) を利用して執筆され、[GitHub上の公開リポジトリ](https://github.com/nobodyplace/ApolloPlus_Manual) で管理されています。またGitHubが提供する静的サイトのホスティングサービス「GitHub Pages」にてホスティングされています。
 - テキストの追加・改変は、ローカル環境で行ってmasterブランチにプッシュするか、ブラウザでリポジトリを表示して編集することで行うことが出来ます。
 	- 編集を行うにはGitHubのアカウントが必要です。[管理者](https://github.com/nobodyplace) までアカウントをお知らせください。
-
-  [50889ba5]: http://dynalon.github.io/mdwiki/ "MDwiki"
-  [9507a756]: https://github.com/nobodyplace/ApolloPlus_Manual "GitHub上の公開リポジトリ"
 
 
 ### 著作権について
