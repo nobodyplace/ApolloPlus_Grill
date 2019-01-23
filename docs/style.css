@@ -13,7 +13,7 @@
     /* background-color: rgba(0, 0, 0, 0.01); */
     font-weight: bold;
     padding-left: 6px;
-    
+
 }
 @media (min-width: 992px) {
     #md-page-menu.affix {
@@ -30,7 +30,7 @@
     .md-float-left .col-sm-2, .md-float-right .col-sm-2 {
         max-width: 16.67%;
     }
-    
+
 }
 @media (max-width: 992px) {
     a.forkmeongithub {
@@ -69,4 +69,14 @@
     background-color: !important;
     font-size: smaller;
     padding: 1em;
+}
+
+h2.md-inpage-anchor {
+    margin: 6rem 0 3rem;
+    padding: 0 0 0 1.2rem;
+    border-bottom: solid 1px #999;
+    border-left: solid 1rem #999;
+}
+h3.md-inpage-anchor {
+    margin: 1.5em 0 0.5em;
 }
