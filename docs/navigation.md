@@ -15,3 +15,4 @@
 
 
 [gimmick:theme](united)
+[gimmick:ForkMeOnGitHub](https://github.com/nobodyplace/ApolloPlus_Manual)
